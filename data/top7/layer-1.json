@@ -1,0 +1,224 @@
+{
+ "title": "Top 7 Layer-1 Blockchains",
+ "metrics": [
+  "Security",
+  "Fees",
+  "Ease of use",
+  "Assets",
+  "Features",
+  "Support",
+  "Reputation"
+ ],
+ "items": [
+  {
+   "name": "Bitcoin",
+   "key": "bitcoin",
+   "badge": "Most secure",
+   "score": 9.4,
+   "fee": "Proof of Work",
+   "coins": "$0.50\u2013$5",
+   "us": "~7",
+   "bestfor": "Store of value",
+   "m": [
+    10,
+    10,
+    6,
+    7,
+    8,
+    10,
+    10
+   ],
+   "pros": [
+    "Largest security budget of any network",
+    "Fixed 21M supply, 15+ years uptime",
+    "Spot ETFs and corporate treasuries"
+   ],
+   "cons": [
+    "Slow, limited programmability",
+    "Fees spike in congestion"
+   ],
+   "choose": "you want digital gold.",
+   "skip": "you want smart contracts on the base layer."
+  },
+  {
+   "name": "Ethereum",
+   "key": "ethereum",
+   "badge": "Best ecosystem",
+   "score": 9.3,
+   "fee": "Proof of Stake",
+   "coins": "$0.20\u2013$3",
+   "us": "~15\u201330 (L1)",
+   "bestfor": "DeFi, NFTs, settlement for L2s",
+   "m": [
+    10,
+    9,
+    8,
+    9,
+    10,
+    9,
+    10
+   ],
+   "pros": [
+    "Largest developer and DeFi ecosystem",
+    "Rollup-centric roadmap scales via L2s",
+    "Staking yield from protocol"
+   ],
+   "cons": [
+    "L1 fees still high at peak",
+    "Complexity for newcomers"
+   ],
+   "choose": "you want the deepest app ecosystem.",
+   "skip": "you need sub-cent fees on L1 \u2014 use an L2."
+  },
+  {
+   "name": "Solana",
+   "key": "solana",
+   "badge": "Fastest & cheapest",
+   "score": 8.8,
+   "fee": "Proof of Stake + PoH",
+   "coins": "<$0.01",
+   "us": "1,000s",
+   "bestfor": "Consumer apps, payments, DEX trading",
+   "m": [
+    8,
+    7,
+    9,
+    10,
+    10,
+    8,
+    8
+   ],
+   "pros": [
+    "Sub-second, sub-cent transactions",
+    "Leading DEX volume and consumer apps",
+    "Firedancer client improves resilience"
+   ],
+   "cons": [
+    "Past outages",
+    "Higher hardware requirements for validators"
+   ],
+   "choose": "you want speed and cheap fees.",
+   "skip": "you prioritise maximum decentralisation."
+  },
+  {
+   "name": "BNB Chain",
+   "key": "bnbchain",
+   "badge": "Best for low-cost EVM",
+   "score": 7.9,
+   "fee": "PoSA",
+   "coins": "~$0.03",
+   "us": "~2,000",
+   "bestfor": "Retail EVM apps",
+   "m": [
+    7,
+    6,
+    8,
+    9,
+    8,
+    8,
+    8
+   ],
+   "pros": [
+    "EVM-compatible with very low fees",
+    "Huge retail user base via Binance",
+    "Fast block times"
+   ],
+   "cons": [
+    "Limited validator set",
+    "Binance-centric"
+   ],
+   "choose": "you want cheap EVM transactions.",
+   "skip": "decentralisation is your top criterion."
+  },
+  {
+   "name": "Avalanche",
+   "key": "avalanche",
+   "badge": "Best for custom chains",
+   "score": 7.7,
+   "fee": "Snowman PoS",
+   "coins": "~$0.05",
+   "us": "~4,500",
+   "bestfor": "Enterprise subnets, gaming",
+   "m": [
+    8,
+    8,
+    7,
+    8,
+    9,
+    7,
+    8
+   ],
+   "pros": [
+    "Subnets/L1s let apps run their own chains",
+    "Sub-2s finality",
+    "Institutional pilots"
+   ],
+   "cons": [
+    "Fragmented liquidity across subnets",
+    "Smaller DeFi than Ethereum/Solana"
+   ],
+   "choose": "you're building a dedicated app-chain.",
+   "skip": "you want the deepest liquidity."
+  },
+  {
+   "name": "TON",
+   "key": "ton",
+   "badge": "Best distribution",
+   "score": 7.5,
+   "fee": "Proof of Stake",
+   "coins": "~$0.01",
+   "us": "High",
+   "bestfor": "Telegram mini-apps",
+   "m": [
+    7,
+    6,
+    9,
+    10,
+    8,
+    7,
+    7
+   ],
+   "pros": [
+    "Native Telegram integration (900M+ users)",
+    "Mini-apps and tap-to-earn drove adoption",
+    "Very low fees"
+   ],
+   "cons": [
+    "Concentrated early distribution",
+    "Ecosystem still maturing"
+   ],
+   "choose": "you build for Telegram users.",
+   "skip": "you want battle-tested DeFi."
+  },
+  {
+   "name": "Cardano",
+   "key": "cardano",
+   "badge": "Most research-driven",
+   "score": 7.2,
+   "fee": "Ouroboros PoS",
+   "coins": "~$0.15",
+   "us": "~250",
+   "bestfor": "Peer-reviewed design, staking",
+   "m": [
+    9,
+    9,
+    6,
+    6,
+    7,
+    7,
+    8
+   ],
+   "pros": [
+    "Formal methods and peer-reviewed protocol",
+    "Highly decentralised staking",
+    "Low energy use"
+   ],
+   "cons": [
+    "Slower ecosystem growth",
+    "Lower DeFi TVL"
+   ],
+   "choose": "you prize methodical engineering.",
+   "skip": "you want the busiest app ecosystem."
+  }
+ ]
+}
