@@ -1,0 +1,224 @@
+{
+ "title": "Top 7 DeFi Platforms",
+ "metrics": [
+  "Security",
+  "Fees",
+  "Ease of use",
+  "Assets",
+  "Features",
+  "Support",
+  "Reputation"
+ ],
+ "items": [
+  {
+   "name": "Aave",
+   "key": "aave",
+   "badge": "Best lending",
+   "score": 9.2,
+   "fee": "Lending",
+   "coins": "$20B+",
+   "us": "10+",
+   "bestfor": "Borrowing against crypto",
+   "m": [
+    10,
+    8,
+    9,
+    10,
+    10,
+    8,
+    10
+   ],
+   "pros": [
+    "Largest lending protocol, battle-tested since 2017",
+    "GHO stablecoin and V4 roadmap",
+    "Multi-chain deployments"
+   ],
+   "cons": [
+    "Liquidation risk if collateral drops",
+    "Variable rates"
+   ],
+   "choose": "you want to borrow or earn on blue-chips.",
+   "skip": "you can't monitor your health factor."
+  },
+  {
+   "name": "Uniswap",
+   "key": "uniswap",
+   "badge": "Best DEX",
+   "score": 9.1,
+   "fee": "DEX",
+   "coins": "$5B+",
+   "us": "12+",
+   "bestfor": "Token swaps",
+   "m": [
+    10,
+    8,
+    10,
+    9,
+    10,
+    8,
+    10
+   ],
+   "pros": [
+    "Most-used DEX, never exploited at core",
+    "V4 hooks enable custom pools",
+    "Unichain L2"
+   ],
+   "cons": [
+    "Slippage on thin pairs",
+    "LP impermanent loss"
+   ],
+   "choose": "you swap tokens on EVM chains.",
+   "skip": "you want order-book trading."
+  },
+  {
+   "name": "Lido",
+   "key": "lido",
+   "badge": "Best liquid staking",
+   "score": 8.8,
+   "fee": "Liquid staking",
+   "coins": "$25B+",
+   "us": "Ethereum",
+   "bestfor": "Earning ETH staking yield while staying liquid",
+   "m": [
+    9,
+    8,
+    10,
+    8,
+    8,
+    8,
+    9
+   ],
+   "pros": [
+    "stETH is the most integrated LST",
+    "No 32 ETH minimum",
+    "Dual-governance adds safety"
+   ],
+   "cons": [
+    "Concentration concerns on Ethereum",
+    "Smart-contract + slashing risk"
+   ],
+   "choose": "you hold ETH long term.",
+   "skip": "you oppose staking concentration."
+  },
+  {
+   "name": "Sky (MakerDAO)",
+   "key": "makerdao",
+   "badge": "Best stablecoin protocol",
+   "score": 8.5,
+   "fee": "Stablecoin / CDP",
+   "coins": "$8B+",
+   "us": "Ethereum + L2s",
+   "bestfor": "DAI/USDS savings rate",
+   "m": [
+    10,
+    8,
+    7,
+    8,
+    9,
+    7,
+    10
+   ],
+   "pros": [
+    "Oldest DeFi protocol; survived 2020 and 2022",
+    "Savings rate on USDS/DAI",
+    "Real-world-asset backing"
+   ],
+   "cons": [
+    "Rebrand confusion (Sky/USDS)",
+    "Governance complexity"
+   ],
+   "choose": "you want yield on a decentralised stablecoin.",
+   "skip": "you want the simplest UX."
+  },
+  {
+   "name": "Jupiter",
+   "key": "jupiter",
+   "badge": "Best on Solana",
+   "score": 8.4,
+   "fee": "DEX aggregator",
+   "coins": "$2B+",
+   "us": "Solana",
+   "bestfor": "Best-price swaps on Solana",
+   "m": [
+    8,
+    9,
+    10,
+    8,
+    10,
+    8,
+    8
+   ],
+   "pros": [
+    "Routes across every Solana DEX",
+    "Limit orders, DCA and perps",
+    "Fast and cheap"
+   ],
+   "cons": [
+    "Solana-only",
+    "Perps carry leverage risk"
+   ],
+   "choose": "you trade on Solana.",
+   "skip": "you're EVM-only."
+  },
+  {
+   "name": "Curve",
+   "key": "curve",
+   "badge": "Best for stablecoin swaps",
+   "score": 8.0,
+   "fee": "DEX",
+   "coins": "$2B+",
+   "us": "10+",
+   "bestfor": "Low-slippage stable and LST swaps",
+   "m": [
+    8,
+    9,
+    6,
+    8,
+    9,
+    6,
+    9
+   ],
+   "pros": [
+    "Lowest slippage for like-kind assets",
+    "crvUSD and Llamalend",
+    "Deep stablecoin liquidity"
+   ],
+   "cons": [
+    "Complex UI",
+    "2023 Vyper exploit history"
+   ],
+   "choose": "you move size between stablecoins.",
+   "skip": "you're new to DeFi."
+  },
+  {
+   "name": "Pendle",
+   "key": "pendle",
+   "badge": "Best yield trading",
+   "score": 7.8,
+   "fee": "Yield tokenisation",
+   "coins": "$4B+",
+   "us": "5+",
+   "bestfor": "Fixed yields, points farming",
+   "m": [
+    8,
+    8,
+    6,
+    7,
+    10,
+    7,
+    8
+   ],
+   "pros": [
+    "Lock in fixed yields on-chain",
+    "Core venue for points/airdrop speculation",
+    "Multi-chain"
+   ],
+   "cons": [
+    "Concepts (PT/YT) are advanced",
+    "Liquidity varies by market"
+   ],
+   "choose": "you understand yield curves.",
+   "skip": "you want set-and-forget."
+  }
+ ]
+}
