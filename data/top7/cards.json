@@ -1,0 +1,224 @@
+{
+ "title": "Top 7 Crypto Cards",
+ "metrics": [
+  "Security",
+  "Fees",
+  "Ease of use",
+  "Assets",
+  "Features",
+  "Support",
+  "Reputation"
+ ],
+ "items": [
+  {
+   "name": "Crypto.com Visa",
+   "key": "cryptocomcard",
+   "badge": "Best rewards ceiling",
+   "score": 8.6,
+   "fee": "Visa",
+   "coins": "0–5% CRO",
+   "us": "US, EU, UK, APAC",
+   "bestfor": "Users willing to stake CRO",
+   "m": [
+    8,
+    7,
+    9,
+    9,
+    10,
+    7,
+    8
+   ],
+   "pros": [
+    "Up to 5% back plus streaming rebates on top tiers",
+    "Metal cards, wide availability",
+    "No annual fee"
+   ],
+   "cons": [
+    "Best perks need large CRO lock-ups",
+    "Rewards cut several times historically"
+   ],
+   "choose": "you'll lock CRO for perks.",
+   "skip": "you want rewards without staking."
+  },
+  {
+   "name": "Coinbase Card",
+   "key": "coinbasecard",
+   "badge": "Best for US beginners",
+   "score": 8.3,
+   "fee": "Visa",
+   "coins": "Up to 4% in crypto",
+   "us": "US",
+   "bestfor": "Simple US spending",
+   "m": [
+    9,
+    8,
+    10,
+    8,
+    7,
+    8,
+    9
+   ],
+   "pros": [
+    "Rotating crypto rewards, no staking",
+    "Instant conversion from Coinbase balance",
+    "Strong security"
+   ],
+   "cons": [
+    "US only",
+    "Rewards rates fluctuate"
+   ],
+   "choose": "you already use Coinbase.",
+   "skip": "you're outside the US."
+  },
+  {
+   "name": "Bybit Card",
+   "key": "bybitcard",
+   "badge": "Best for global users",
+   "score": 8.1,
+   "fee": "Mastercard",
+   "coins": "Up to 10% (promos)",
+   "us": "EEA, UK, APAC, LATAM",
+   "bestfor": "Non-US spenders",
+   "m": [
+    8,
+    9,
+    8,
+    9,
+    9,
+    7,
+    7
+   ],
+   "pros": [
+    "Low FX fees",
+    "Spend directly from trading balance",
+    "Frequent cashback promos"
+   ],
+   "cons": [
+    "Not for US",
+    "Promo rates change"
+   ],
+   "choose": "you're in Europe/Asia and use Bybit.",
+   "skip": "you want a stable rewards rate."
+  },
+  {
+   "name": "Nexo Card",
+   "key": "nexo",
+   "badge": "Best credit + debit hybrid",
+   "score": 8.0,
+   "fee": "Mastercard",
+   "coins": "Up to 2% (credit) / interest (debit)",
+   "us": "EEA, UK",
+   "bestfor": "Spending without selling",
+   "m": [
+    8,
+    8,
+    8,
+    8,
+    10,
+    8,
+    8
+   ],
+   "pros": [
+    "Credit mode spends against crypto collateral — no capital-gains event",
+    "Debit mode earns interest on balance",
+    "Metal card"
+   ],
+   "cons": [
+    "Loyalty tiers require NEXO",
+    "Regional availability"
+   ],
+   "choose": "you want to spend without selling your coins.",
+   "skip": "you dislike borrowing."
+  },
+  {
+   "name": "Gnosis Pay",
+   "key": "gnosispay",
+   "badge": "Best self-custody card",
+   "score": 7.9,
+   "fee": "Visa",
+   "coins": "Up to 5% in GNO (with GNO holdings)",
+   "us": "EEA, UK, BR",
+   "bestfor": "Self-custody users",
+   "m": [
+    9,
+    8,
+    7,
+    7,
+    9,
+    7,
+    8
+   ],
+   "pros": [
+    "Funds stay in your own Safe wallet",
+    "Spend stablecoins directly on-chain",
+    "No KYC-custodian holding your money"
+   ],
+   "cons": [
+    "Setup is more technical",
+    "Limited regions"
+   ],
+   "choose": "self-custody is non-negotiable.",
+   "skip": "you want an app-first experience."
+  },
+  {
+   "name": "Wirex",
+   "key": "wirex",
+   "badge": "Best for multi-currency",
+   "score": 7.6,
+   "fee": "Visa/Mastercard",
+   "coins": "Up to 8% Cryptoback (tiers)",
+   "us": "UK, EEA, APAC",
+   "bestfor": "Travellers",
+   "m": [
+    7,
+    8,
+    8,
+    8,
+    9,
+    7,
+    7
+   ],
+   "pros": [
+    "Multi-currency fiat and crypto accounts",
+    "Long-running card programme (2015)",
+    "X-tras tiers"
+   ],
+   "cons": [
+    "Top rates need WXT staking",
+    "Mixed support reviews"
+   ],
+   "choose": "you travel and hold several fiats.",
+   "skip": "you want the cleanest app."
+  },
+  {
+   "name": "Binance Card (regional)",
+   "key": "binance",
+   "badge": "Best where available",
+   "score": 7.4,
+   "fee": "Visa",
+   "coins": "Up to 8% BNB (regional)",
+   "us": "Select regions",
+   "bestfor": "Binance users in supported regions",
+   "m": [
+    8,
+    9,
+    8,
+    9,
+    7,
+    7,
+    7
+   ],
+   "pros": [
+    "Spend from Binance funding wallet",
+    "Low fees",
+    "High cashback in some regions"
+   ],
+   "cons": [
+    "Withdrawn from EEA in 2023; availability varies",
+    "Check your region before applying"
+   ],
+   "choose": "Binance offers the card in your country.",
+   "skip": "you need guaranteed availability."
+  }
+ ]
+}
