@@ -1,0 +1,224 @@
+{
+ "title": "Top 7 Crypto Exchanges",
+ "metrics": [
+  "Security",
+  "Fees",
+  "Ease of use",
+  "Assets",
+  "Features",
+  "Support",
+  "Reputation"
+ ],
+ "items": [
+  {
+   "name": "Coinbase",
+   "key": "coinbase",
+   "badge": "Best for beginners",
+   "score": 9.1,
+   "fee": "0.60%",
+   "coins": "250+",
+   "us": "Yes (all states)",
+   "bestfor": "First purchase, simplicity",
+   "m": [
+    10,
+    6,
+    10,
+    8,
+    8,
+    9,
+    10
+   ],
+   "pros": [
+    "Publicly listed (NASDAQ: COIN), heavily regulated",
+    "Cleanest onboarding of any exchange",
+    "Insured USD balances, strong account security"
+   ],
+   "cons": [
+    "Highest base fees on this list",
+    "Advanced mode needed for lower fees"
+   ],
+   "choose": "you want the safest first purchase and don't mind paying for simplicity.",
+   "skip": "you trade often \u2014 fees compound fast."
+  },
+  {
+   "name": "Kraken",
+   "key": "kraken",
+   "badge": "Most trusted",
+   "score": 9.0,
+   "fee": "0.40%",
+   "coins": "300+",
+   "us": "Yes (most states)",
+   "bestfor": "Security-first holders, staking",
+   "m": [
+    10,
+    8,
+    8,
+    8,
+    9,
+    10,
+    10
+   ],
+   "pros": [
+    "Never hacked since 2011; regular proof-of-reserves",
+    "24/7 live chat support",
+    "Competitive Pro fees from 0.25% taker"
+   ],
+   "cons": [
+    "Interface less polished than Coinbase",
+    "Some products unavailable in a few US states"
+   ],
+   "choose": "you value a security track record over a flashy app.",
+   "skip": "you need the absolute lowest fees."
+  },
+  {
+   "name": "Binance",
+   "key": "binance",
+   "badge": "Lowest fees",
+   "score": 8.7,
+   "fee": "0.10%",
+   "coins": "400+",
+   "us": "No (Binance.US separate)",
+   "bestfor": "Global users, altcoins, derivatives",
+   "m": [
+    8,
+    10,
+    7,
+    10,
+    10,
+    8,
+    8
+   ],
+   "pros": [
+    "0.10% base fee, lower with BNB",
+    "Deepest liquidity and widest altcoin list",
+    "Earn, launchpool and futures under one roof"
+   ],
+   "cons": [
+    "Not available to US residents",
+    "Regulatory history in several jurisdictions"
+   ],
+   "choose": "you're outside the US and want maximum assets at minimum fees.",
+   "skip": "you are a US resident or want a simple app."
+  },
+  {
+   "name": "Bybit",
+   "key": "bybit",
+   "badge": "Best for derivatives",
+   "score": 8.4,
+   "fee": "0.10%",
+   "coins": "600+",
+   "us": "No",
+   "bestfor": "Futures, copy trading",
+   "m": [
+    8,
+    9,
+    8,
+    10,
+    10,
+    8,
+    7
+   ],
+   "pros": [
+    "Top-3 derivatives liquidity",
+    "Unified trading account and copy trading",
+    "Fast listings of new tokens"
+   ],
+   "cons": [
+    "Not for US users",
+    "Aggressive bonus marketing can distract beginners"
+   ],
+   "choose": "you trade perpetuals or want copy trading.",
+   "skip": "you're a buy-and-hold beginner."
+  },
+  {
+   "name": "OKX",
+   "key": "okx",
+   "badge": "Best all-rounder (ex-US)",
+   "score": 8.3,
+   "fee": "0.10%",
+   "coins": "350+",
+   "us": "No",
+   "bestfor": "Web3 wallet + exchange combo",
+   "m": [
+    8,
+    9,
+    8,
+    9,
+    10,
+    8,
+    8
+   ],
+   "pros": [
+    "Built-in Web3 wallet with DEX aggregation",
+    "Monthly proof-of-reserves",
+    "Strong mobile app"
+   ],
+   "cons": [
+    "Not available in the US",
+    "Product breadth can overwhelm new users"
+   ],
+   "choose": "you want CEX and self-custody in one app.",
+   "skip": "you want the simplest possible experience."
+  },
+  {
+   "name": "Crypto.com",
+   "key": "cryptocom",
+   "badge": "Best for cards & rewards",
+   "score": 8.0,
+   "fee": "0.25%",
+   "coins": "350+",
+   "us": "Yes",
+   "bestfor": "Visa card cashback, mobile-first users",
+   "m": [
+    8,
+    7,
+    9,
+    9,
+    8,
+    7,
+    8
+   ],
+   "pros": [
+    "Visa card with crypto cashback",
+    "Available in the US with a polished app",
+    "Wide fiat on-ramps"
+   ],
+   "cons": [
+    "Card perks require locking CRO",
+    "Spread on the app's simple buy is high"
+   ],
+   "choose": "you want to spend crypto with a card.",
+   "skip": "you dislike token-locking requirements."
+  },
+  {
+   "name": "Bitget",
+   "key": "bitget",
+   "badge": "Best for copy trading",
+   "score": 7.8,
+   "fee": "0.10%",
+   "coins": "800+",
+   "us": "No",
+   "bestfor": "Copy trading, new listings",
+   "m": [
+    7,
+    9,
+    8,
+    10,
+    9,
+    7,
+    7
+   ],
+   "pros": [
+    "Largest copy-trading community",
+    "Very broad altcoin coverage",
+    "Protection fund publicly tracked"
+   ],
+   "cons": [
+    "Not available in the US",
+    "Younger brand than the others"
+   ],
+   "choose": "you want to mirror proven traders.",
+   "skip": "you need deep regulatory pedigree."
+  }
+ ]
+}
