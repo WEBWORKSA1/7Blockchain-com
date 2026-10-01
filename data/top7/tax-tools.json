@@ -1,0 +1,224 @@
+{
+ "title": "Top 7 Crypto Tax Tools",
+ "metrics": [
+  "Security",
+  "Fees",
+  "Ease of use",
+  "Assets",
+  "Features",
+  "Support",
+  "Reputation"
+ ],
+ "items": [
+  {
+   "name": "Koinly",
+   "key": "koinly",
+   "badge": "Best overall",
+   "score": 9.0,
+   "fee": "$49\u2013$199/yr",
+   "coins": "800+",
+   "us": "100+",
+   "bestfor": "Most users, international",
+   "m": [
+    9,
+    8,
+    10,
+    10,
+    9,
+    8,
+    9
+   ],
+   "pros": [
+    "Widest exchange/wallet/chain coverage",
+    "Country-specific reports (US, UK, CA, AU, EU)",
+    "Free portfolio tracking"
+   ],
+   "cons": [
+    "DeFi edge-cases need manual fixes",
+    "Price jumps with transaction count"
+   ],
+   "choose": "you use multiple exchanges or live outside the US.",
+   "skip": "you have under 100 transactions \u2014 a free tier may do."
+  },
+  {
+   "name": "CoinLedger",
+   "key": "coinledger",
+   "badge": "Best for US filers",
+   "score": 8.7,
+   "fee": "$49\u2013$199/yr",
+   "coins": "500+",
+   "us": "US-focused + others",
+   "bestfor": "TurboTax/TaxAct users",
+   "m": [
+    8,
+    8,
+    10,
+    8,
+    8,
+    9,
+    9
+   ],
+   "pros": [
+    "Direct TurboTax and TaxAct integration",
+    "Very simple flow",
+    "Responsive support"
+   ],
+   "cons": [
+    "Less international depth",
+    "DeFi classification occasionally manual"
+   ],
+   "choose": "you file US taxes with TurboTax.",
+   "skip": "you need non-US reports."
+  },
+  {
+   "name": "CoinTracker",
+   "key": "cointracker",
+   "badge": "Best portfolio + tax",
+   "score": 8.4,
+   "fee": "$59\u2013$199/yr",
+   "coins": "500+",
+   "us": "US, UK, CA, AU, IN",
+   "bestfor": "Coinbase users",
+   "m": [
+    8,
+    7,
+    9,
+    9,
+    9,
+    8,
+    9
+   ],
+   "pros": [
+    "Official Coinbase and TurboTax partner",
+    "Great daily portfolio view",
+    "Mobile app"
+   ],
+   "cons": [
+    "Pricier at higher tiers",
+    "Some chains lag"
+   ],
+   "choose": "you want tracking all year, not just at filing.",
+   "skip": "you want the cheapest option."
+  },
+  {
+   "name": "Crypto Tax Calculator",
+   "key": "cryptotaxcalculator",
+   "badge": "Best for DeFi & NFTs",
+   "score": 8.3,
+   "fee": "$49\u2013$249/yr",
+   "coins": "1,000+",
+   "us": "20+",
+   "bestfor": "On-chain power users",
+   "m": [
+    8,
+    7,
+    8,
+    10,
+    10,
+    8,
+    8
+   ],
+   "pros": [
+    "Deepest DeFi/NFT categorisation",
+    "Smart-contract-level parsing",
+    "MetaMask partner"
+   ],
+   "cons": [
+    "More expensive for heavy users",
+    "Learning curve"
+   ],
+   "choose": "your activity is mostly on-chain.",
+   "skip": "you only trade on one exchange."
+  },
+  {
+   "name": "ZenLedger",
+   "key": "zenledger",
+   "badge": "Best for accountants",
+   "score": 7.9,
+   "fee": "$49\u2013$399/yr",
+   "coins": "400+",
+   "us": "US-focused",
+   "bestfor": "CPA collaboration",
+   "m": [
+    8,
+    7,
+    8,
+    8,
+    8,
+    9,
+    8
+   ],
+   "pros": [
+    "Tax-professional suite",
+    "Audit-trail reports",
+    "Government contracts signal rigor"
+   ],
+   "cons": [
+    "US-centric",
+    "Interface dated"
+   ],
+   "choose": "your accountant files for you.",
+   "skip": "you're outside the US."
+  },
+  {
+   "name": "Blockpit",
+   "key": "accointing",
+   "badge": "Best for Europe",
+   "score": 7.8,
+   "fee": "\u20ac49\u2013\u20ac249/yr",
+   "coins": "300+",
+   "us": "EU focus (DE, AT, FR, ES, CH\u2026)",
+   "bestfor": "EU country-specific rules",
+   "m": [
+    8,
+    7,
+    8,
+    8,
+    8,
+    8,
+    8
+   ],
+   "pros": [
+    "Country-specific EU tax logic (e.g., German 1-year rule)",
+    "Acquired Accointing",
+    "Optimisation hints"
+   ],
+   "cons": [
+    "Thinner outside Europe",
+    "Fewer DeFi integrations"
+   ],
+   "choose": "you file in the EU.",
+   "skip": "you're a US filer."
+  },
+  {
+   "name": "TokenTax",
+   "key": "tokentax",
+   "badge": "Best full-service",
+   "score": 7.5,
+   "fee": "$65\u2013$3,499/yr",
+   "coins": "300+",
+   "us": "US + intl",
+   "bestfor": "Complex cases, done-for-you",
+   "m": [
+    8,
+    5,
+    8,
+    8,
+    9,
+    10,
+    8
+   ],
+   "pros": [
+    "Software plus in-house CPAs",
+    "Handles margin, DeFi, NFTs and reconciliation",
+    "Audit support"
+   ],
+   "cons": [
+    "Expensive at the top",
+    "Overkill for simple portfolios"
+   ],
+   "choose": "your situation is complicated.",
+   "skip": "you have a simple portfolio."
+  }
+ ]
+}
