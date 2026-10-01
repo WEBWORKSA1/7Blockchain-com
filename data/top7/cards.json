@@ -16,7 +16,7 @@
    "badge": "Best rewards ceiling",
    "score": 8.6,
    "fee": "Visa",
-   "coins": "0–5% CRO",
+   "coins": "0\u20135% CRO",
    "us": "US, EU, UK, APAC",
    "bestfor": "Users willing to stake CRO",
    "m": [
@@ -119,7 +119,7 @@
     8
    ],
    "pros": [
-    "Credit mode spends against crypto collateral — no capital-gains event",
+    "Credit mode spends against crypto collateral \u2014 no capital-gains event",
     "Debit mode earns interest on balance",
     "Metal card"
    ],
