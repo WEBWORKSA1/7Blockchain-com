@@ -1,0 +1,224 @@
+{
+ "title": "Top 7 Layer-2 Networks",
+ "metrics": [
+  "Security",
+  "Fees",
+  "Ease of use",
+  "Assets",
+  "Features",
+  "Support",
+  "Reputation"
+ ],
+ "items": [
+  {
+   "name": "Arbitrum",
+   "key": "arbitrum",
+   "badge": "Best overall",
+   "score": 9.0,
+   "fee": "Optimistic rollup",
+   "coins": "~$0.01\u20130.05",
+   "us": "Stage 1",
+   "bestfor": "DeFi depth",
+   "m": [
+    9,
+    9,
+    9,
+    10,
+    9,
+    8,
+    9
+   ],
+   "pros": [
+    "Largest L2 by TVL and DeFi activity",
+    "BoLD permissionless validation",
+    "Mature tooling and Orbit chains"
+   ],
+   "cons": [
+    "7-day withdrawal window via native bridge",
+    "Centralised sequencer"
+   ],
+   "choose": "you want the deepest L2 DeFi.",
+   "skip": "you need instant native withdrawals."
+  },
+  {
+   "name": "Base",
+   "key": "base",
+   "badge": "Fastest growing",
+   "score": 8.9,
+   "fee": "OP Stack rollup",
+   "coins": "<$0.01",
+   "us": "Stage 1",
+   "bestfor": "Consumer apps, onboarding",
+   "m": [
+    8,
+    10,
+    10,
+    9,
+    9,
+    9,
+    9
+   ],
+   "pros": [
+    "Coinbase distribution to 100M+ users",
+    "Lowest fees among major L2s",
+    "Explosive consumer and social-app growth"
+   ],
+   "cons": [
+    "Coinbase-operated sequencer",
+    "Memecoin noise"
+   ],
+   "choose": "you're onboarding newcomers.",
+   "skip": "you avoid corporate-run infrastructure."
+  },
+  {
+   "name": "Optimism (OP Mainnet)",
+   "key": "optimism",
+   "badge": "Best for Superchain",
+   "score": 8.5,
+   "fee": "OP Stack rollup",
+   "coins": "~$0.01",
+   "us": "Stage 1",
+   "bestfor": "Superchain builders, public goods",
+   "m": [
+    8,
+    9,
+    8,
+    8,
+    9,
+    8,
+    9
+   ],
+   "pros": [
+    "OP Stack powers Base, Soneium, Unichain and more",
+    "Fault proofs live",
+    "RetroPGF funds public goods"
+   ],
+   "cons": [
+    "TVL below Arbitrum/Base",
+    "Governance complexity"
+   ],
+   "choose": "you build on the OP Stack.",
+   "skip": "you only chase liquidity."
+  },
+  {
+   "name": "zkSync Era",
+   "key": "zksync",
+   "badge": "Best ZK ecosystem",
+   "score": 8.0,
+   "fee": "ZK rollup",
+   "coins": "~$0.02",
+   "us": "Stage 0/1",
+   "bestfor": "ZK-native apps, elastic chains",
+   "m": [
+    9,
+    8,
+    7,
+    7,
+    9,
+    7,
+    8
+   ],
+   "pros": [
+    "Validity proofs \u2014 no challenge window",
+    "Native account abstraction",
+    "Elastic chain network"
+   ],
+   "cons": [
+    "Smaller DeFi than optimistic peers",
+    "Decentralisation still in progress"
+   ],
+   "choose": "you want ZK security guarantees.",
+   "skip": "you need the largest liquidity pools."
+  },
+  {
+   "name": "Polygon (PoS + zkEVM)",
+   "key": "polygon",
+   "badge": "Best for enterprises & payments",
+   "score": 7.9,
+   "fee": "Sidechain + ZK rollup",
+   "coins": "<$0.01",
+   "us": "Mixed",
+   "bestfor": "Brands, stablecoin payments",
+   "m": [
+    7,
+    9,
+    9,
+    8,
+    9,
+    8,
+    9
+   ],
+   "pros": [
+    "Most enterprise and brand integrations",
+    "Very low fees on PoS",
+    "AggLayer vision unifies chains"
+   ],
+   "cons": [
+    "PoS is a sidechain, not a rollup",
+    "zkEVM adoption modest"
+   ],
+   "choose": "you need brand-friendly, cheap transactions.",
+   "skip": "you require strict rollup security."
+  },
+  {
+   "name": "Starknet",
+   "key": "starknet",
+   "badge": "Most innovative tech",
+   "score": 7.6,
+   "fee": "ZK (STARK) rollup",
+   "coins": "~$0.01",
+   "us": "Stage 1",
+   "bestfor": "Cairo developers, gaming",
+   "m": [
+    9,
+    8,
+    6,
+    6,
+    9,
+    7,
+    8
+   ],
+   "pros": [
+    "STARK proofs, no trusted setup",
+    "Native account abstraction",
+    "Fast fee reductions"
+   ],
+   "cons": [
+    "Cairo language learning curve",
+    "Smaller ecosystem"
+   ],
+   "choose": "you want cutting-edge cryptography.",
+   "skip": "you need Solidity compatibility."
+  },
+  {
+   "name": "Scroll",
+   "key": "scroll",
+   "badge": "Best EVM-equivalent ZK",
+   "score": 7.3,
+   "fee": "ZK rollup (zkEVM)",
+   "coins": "~$0.02",
+   "us": "Stage 1",
+   "bestfor": "Solidity devs wanting ZK",
+   "m": [
+    8,
+    8,
+    7,
+    6,
+    8,
+    7,
+    7
+   ],
+   "pros": [
+    "Bytecode-level EVM equivalence",
+    "Clean security model",
+    "Steady growth"
+   ],
+   "cons": [
+    "Lower TVL",
+    "Fewer flagship apps"
+   ],
+   "choose": "you want ZK without rewriting contracts.",
+   "skip": "you need the busiest chain."
+  }
+ ]
+}
