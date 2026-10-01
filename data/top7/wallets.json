@@ -1,0 +1,224 @@
+{
+ "title": "Top 7 Crypto Wallets",
+ "metrics": [
+  "Security",
+  "Fees",
+  "Ease of use",
+  "Assets",
+  "Features",
+  "Support",
+  "Reputation"
+ ],
+ "items": [
+  {
+   "name": "Ledger",
+   "key": "ledger",
+   "badge": "Best overall",
+   "score": 9.2,
+   "fee": "Hardware",
+   "coins": "$79\u2013$279",
+   "us": "5,500+ assets",
+   "bestfor": "Long-term holders",
+   "m": [
+    10,
+    8,
+    8,
+    10,
+    9,
+    8,
+    10
+   ],
+   "pros": [
+    "Secure Element chip, most-sold hardware wallet",
+    "Ledger Live covers buying, staking and swaps",
+    "Supports nearly every chain"
+   ],
+   "cons": [
+    "Closed-source firmware",
+    "Premium models are pricey"
+   ],
+   "choose": "you hold more than you'd be comfortable losing.",
+   "skip": "you only hold small amounts on one chain."
+  },
+  {
+   "name": "Trezor",
+   "key": "trezor",
+   "badge": "Best open-source",
+   "score": 9.0,
+   "fee": "Hardware",
+   "coins": "$49\u2013$219",
+   "us": "1,000+ assets",
+   "bestfor": "Open-source purists",
+   "m": [
+    10,
+    9,
+    8,
+    8,
+    8,
+    8,
+    10
+   ],
+   "pros": [
+    "Fully open-source hardware and software",
+    "Trezor Suite is clean and privacy-focused",
+    "Safe 3/5 now include Secure Element"
+   ],
+   "cons": [
+    "Fewer chains than Ledger",
+    "No Bluetooth models"
+   ],
+   "choose": "you want auditable security.",
+   "skip": "you need broad altcoin coverage."
+  },
+  {
+   "name": "Tangem",
+   "key": "tangem",
+   "badge": "Easiest hardware",
+   "score": 8.6,
+   "fee": "Hardware (card)",
+   "coins": "$55\u2013$70",
+   "us": "Multi-chain",
+   "bestfor": "Beginners, gifting",
+   "m": [
+    9,
+    9,
+    10,
+    8,
+    7,
+    8,
+    8
+   ],
+   "pros": [
+    "Credit-card form factor, NFC tap to sign",
+    "No seed phrase needed (optional backup cards)",
+    "25-year warranty"
+   ],
+   "cons": [
+    "Requires a phone with NFC",
+    "Smaller app ecosystem"
+   ],
+   "choose": "you want hardware security without the gadget.",
+   "skip": "you want desktop-first workflows."
+  },
+  {
+   "name": "MetaMask",
+   "key": "metamask",
+   "badge": "Best for Ethereum & L2s",
+   "score": 8.4,
+   "fee": "Software (free)",
+   "coins": "Free",
+   "us": "EVM chains",
+   "bestfor": "DeFi, NFTs",
+   "m": [
+    7,
+    8,
+    8,
+    8,
+    10,
+    7,
+    10
+   ],
+   "pros": [
+    "The default wallet for Ethereum dApps",
+    "Pairs with Ledger/Trezor",
+    "Built-in swaps, bridges and portfolio"
+   ],
+   "cons": [
+    "Hot wallet \u2014 phishing target",
+    "Swap fees are not the cheapest"
+   ],
+   "choose": "you use Ethereum DeFi or NFTs.",
+   "skip": "you mainly hold Bitcoin."
+  },
+  {
+   "name": "Rabby",
+   "key": "rabby",
+   "badge": "Best for DeFi power users",
+   "score": 8.3,
+   "fee": "Software (free)",
+   "coins": "Free",
+   "us": "EVM chains",
+   "bestfor": "Transaction simulation",
+   "m": [
+    8,
+    9,
+    7,
+    8,
+    10,
+    7,
+    8
+   ],
+   "pros": [
+    "Simulates every transaction before signing",
+    "Automatic chain switching",
+    "Hardware-wallet support"
+   ],
+   "cons": [
+    "Less known than MetaMask",
+    "Browser/desktop focus"
+   ],
+   "choose": "you sign a lot of DeFi transactions.",
+   "skip": "you want the simplest mobile wallet."
+  },
+  {
+   "name": "Phantom",
+   "key": "phantom",
+   "badge": "Best for Solana",
+   "score": 8.2,
+   "fee": "Software (free)",
+   "coins": "Free",
+   "us": "Solana, Ethereum, Bitcoin, Base",
+   "bestfor": "Solana users",
+   "m": [
+    8,
+    9,
+    10,
+    7,
+    8,
+    7,
+    8
+   ],
+   "pros": [
+    "Best-in-class UX on mobile and desktop",
+    "Scam-site warnings and spam-NFT burning",
+    "Multi-chain since 2024"
+   ],
+   "cons": [
+    "Hot wallet",
+    "Fewer chains than MetaMask"
+   ],
+   "choose": "you live on Solana.",
+   "skip": "you need niche EVM chains."
+  },
+  {
+   "name": "Trust Wallet",
+   "key": "trustwallet",
+   "badge": "Best mobile multi-chain",
+   "score": 7.9,
+   "fee": "Software (free)",
+   "coins": "Free",
+   "us": "100+ chains",
+   "bestfor": "Mobile-first users",
+   "m": [
+    7,
+    9,
+    9,
+    10,
+    8,
+    7,
+    8
+   ],
+   "pros": [
+    "Supports 100+ chains and millions of assets",
+    "Simple mobile UX",
+    "Built-in dApp browser"
+   ],
+   "cons": [
+    "Owned by Binance \u2014 governance questions",
+    "Hot wallet"
+   ],
+   "choose": "you want everything in one mobile app.",
+   "skip": "you hold large balances \u2014 go hardware."
+  }
+ ]
+}
